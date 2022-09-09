@@ -1,2 +1,2 @@
 # Quick-Quiz-Site
-Test yourself using this short quiz!
+Test your tech knowledge using this short simple quiz!
